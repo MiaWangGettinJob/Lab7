@@ -1,0 +1,1 @@
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC2021,Level 1,999992021,Level 1,999992021,Level 1,999992021,Level 1,99999
