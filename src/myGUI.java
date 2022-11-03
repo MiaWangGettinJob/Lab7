@@ -21,7 +21,7 @@ public class myGUI extends JFrame implements ActionListener {
     private JPanel panel= new JPanel();
     private JPanel panel2= new JPanel();
 
-    private String fileAnnual = "/Users/simiaowang/Downloads/annual.csv";
+    private String fileAnnual = "src/annual.csv";
 
     public myGUI(){ //constructor
         setTitle("                      Read and Write File" );
